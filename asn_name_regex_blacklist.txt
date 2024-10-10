@@ -1,0 +1,26 @@
+.*amazon.*
+.*microsoft.*
+.*drweb.*
+.*Dr.Web.*
+.*hostinger.*
+.*scanurl.*
+.*above.*
+.*google.*
+.*facebook.*
+.*softlayer.*
+.*amazonaws.*
+.*cyveillance.*
+.*phishtank.*
+.*dreamhost.*
+.*netpilot.*
+.*calyxinstitute.*
+.*tor-exit.*
+.*CDN77.*
+.*CLOUDFLARENET.*
+.*AKAMAI-AS.*
+.*FASTLY.*
+.*SERVER-MANIA.*
+.*HETZNER.*
+.*OVH.*
+.*digitalocean.*
+.*digitalocean .*
