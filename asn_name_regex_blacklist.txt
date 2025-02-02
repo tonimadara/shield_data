@@ -22,5 +22,12 @@
 .*SERVER-MANIA.*
 .*HETZNER.*
 .*OVH.*
+.*host .*
+.*server.*
+.*OVH.*
 .*digitalocean.*
-.*digitalocean .*
+.*hosting.*
+.*akamai.*
+.*colocation.*
+.*LLC.*
+.*cloud.*
